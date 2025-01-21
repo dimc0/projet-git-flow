@@ -1,0 +1,13 @@
+1)git init
+
+
+2)git status
+git add "file"
+git commit -m ""
+
+3)creation du depos en ligne 
+
+4)git remote add origin "url "
+
+
+5)git push 
